@@ -1072,3 +1072,16 @@ section {
 #footer .credits {
 	font-size: 13px;
 }
+
+.info {
+	display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mt-1 {
+    margin-top: 0.25rem!important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
